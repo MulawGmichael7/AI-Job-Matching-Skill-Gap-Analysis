@@ -1,0 +1,16 @@
+job_id,job_title,required_skills
+1,Data Scientist,python; pandas; numpy; scikit-learn; sql; statistics; machine learning
+2,Machine Learning Engineer,python; tensorflow; pytorch; docker; mlops; sql; machine learning
+3,Data Analyst,sql; excel; python; pandas; data visualization; statistics
+4,Backend Developer,python; django; sql; rest api; docker; git
+5,Frontend Developer,javascript; react; css; html; git; typescript
+6,DevOps Engineer,docker; kubernetes; aws; linux; ci/cd; git
+7,Cybersecurity Analyst,network security; python; siem; linux; penetration testing; sql
+8,Cloud Engineer,aws; azure; docker; kubernetes; terraform; linux
+9,NLP Engineer,python; nlp; pytorch; transformers; machine learning; sql
+10,Computer Vision Engineer,python; opencv; pytorch; cnn; machine learning; docker
+11,Software QA Engineer,testing; python; selenium; sql; git; ci/cd
+12,Business Intelligence Analyst,sql; power bi; excel; data visualization; statistics
+13,Embedded Systems Engineer,c++; arduino; microcontrollers; python; robotics
+14,Full Stack Developer,javascript; react; python; django; sql; git
+15,Data Engineer,python; sql; spark; airflow; docker; etl

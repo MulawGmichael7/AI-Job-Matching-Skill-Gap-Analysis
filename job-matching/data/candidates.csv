@@ -1,0 +1,201 @@
+candidate_id,skills,true_target_job
+1,ci/cd; django; python; selenium,Software QA Engineer
+2,arduino; aws; ci/cd; sql; statistics,Business Intelligence Analyst
+3,django; docker; linux; python; scikit-learn; typescript,Backend Developer
+4,docker; git; html; javascript; linux; react,Frontend Developer
+5,c++; pandas; python; robotics; typescript,Embedded Systems Engineer
+6,html; javascript; react; typescript,Frontend Developer
+7,c++; machine learning; pytorch; sql,NLP Engineer
+8,linux; machine learning; numpy; pandas; penetration testing; python; selenium; sql,Data Scientist
+9,data visualization; excel; python; sql; terraform,Data Analyst
+10,data visualization; nlp; power bi; statistics,Business Intelligence Analyst
+11,c++; git; javascript; kubernetes; mlops; react; sql,Full Stack Developer
+12,airflow; docker; etl; excel; microcontrollers; scikit-learn; spark; sql,Data Engineer
+13,data visualization; penetration testing; python; pytorch; statistics; typescript,Data Analyst
+14,django; docker; python; rest api; sql,Backend Developer
+15,excel; machine learning; pandas; scikit-learn; sql; statistics; tensorflow,Data Analyst
+16,nlp; python; pytorch; sql; transformers,NLP Engineer
+17,css; html; javascript; sql; typescript,Frontend Developer
+18,etl; penetration testing; spark; sql,Data Engineer
+19,aws; c++; microcontrollers; robotics; spark,Embedded Systems Engineer
+20,docker; machine learning; python; pytorch; sql; tensorflow,Machine Learning Engineer
+21,etl; machine learning; power bi; sql; statistics; terraform,Business Intelligence Analyst
+22,machine learning; nlp; pandas; pytorch; robotics; sql; statistics; transformers,NLP Engineer
+23,aws; azure; docker,Cloud Engineer
+24,cnn; machine learning; opencv; python,Computer Vision Engineer
+25,git; mlops; python; sql,Backend Developer
+26,css; git; html; python; pytorch; sql; testing,Software QA Engineer
+27,docker; machine learning; mlops; pytorch; sql,Machine Learning Engineer
+28,ci/cd; css; git; linux; python; testing,Software QA Engineer
+29,django; git; mlops; rest api,Backend Developer
+30,aws; kubernetes; linux,Cloud Engineer
+31,ci/cd; git; javascript; power bi; python; scikit-learn; sql; testing,Software QA Engineer
+32,airflow; etl; network security; python; scikit-learn,Data Engineer
+33,linux; microcontrollers; network security; penetration testing; sql,Cybersecurity Analyst
+34,django; docker; git; python; sql,Backend Developer
+35,machine learning; numpy; pandas; python; sql,Data Scientist
+36,css; javascript; machine learning; react; sql; transformers,Full Stack Developer
+37,cnn; javascript; machine learning; microcontrollers; python; pytorch,Computer Vision Engineer
+38,nlp; python; robotics; selenium; sql; testing,Software QA Engineer
+39,airflow; etl; python; spark,Data Engineer
+40,mlops; penetration testing; python; pytorch; sql; tensorflow,Machine Learning Engineer
+41,cnn; css; django; git; javascript,Frontend Developer
+42,git; javascript; linux; nlp; react,Frontend Developer
+43,data visualization; excel; power bi,Business Intelligence Analyst
+44,linux; machine learning; mlops; python; pytorch; tensorflow,Machine Learning Engineer
+45,data visualization; pandas; sql; statistics,Data Analyst
+46,docker; etl; python; rest api; sql,Data Engineer
+47,linux; python; sql; statistics,Data Analyst
+48,etl; git; python; sql,Software QA Engineer
+49,arduino; c++; excel; linux; mlops; python; robotics,Embedded Systems Engineer
+50,arduino; c++; html; python,Embedded Systems Engineer
+51,git; javascript; python; pytorch; react; sql,Full Stack Developer
+52,arduino; aws; ci/cd; docker; power bi; terraform,DevOps Engineer
+53,machine learning; mlops; python; pytorch; tensorflow,Machine Learning Engineer
+54,cnn; docker; machine learning; pytorch,Computer Vision Engineer
+55,network security; penetration testing; python; siem; sql,Cybersecurity Analyst
+56,css; machine learning; network security; nlp; python; pytorch; sql,NLP Engineer
+57,data visualization; excel; mlops; power bi; python; statistics,Business Intelligence Analyst
+58,nlp; power bi; sql; terraform; transformers,NLP Engineer
+59,django; python; react; scikit-learn; selenium,Full Stack Developer
+60,azure; docker; kubernetes; terraform,Cloud Engineer
+61,css; git; javascript; numpy; typescript,Frontend Developer
+62,c++; django; docker; python; react; rest api; selenium,Backend Developer
+63,airflow; docker; etl; excel; sql,Data Engineer
+64,azure; ci/cd; linux; python; sql; terraform; testing,Software QA Engineer
+65,airflow; docker; etl; rest api; spark; sql; statistics; testing,Data Engineer
+66,aws; azure; kubernetes; linux; spark; statistics; terraform,Cloud Engineer
+67,microcontrollers; selenium; sql; testing,Software QA Engineer
+68,ci/cd; docker; kubernetes; mlops,DevOps Engineer
+69,network security; numpy; penetration testing; python; scikit-learn; sql; terraform,Cybersecurity Analyst
+70,airflow; linux; network security; opencv; selenium; sql,Cybersecurity Analyst
+71,git; html; network security; react; typescript,Frontend Developer
+72,linux; penetration testing; scikit-learn; siem; sql,Cybersecurity Analyst
+73,aws; docker; etl; python; transformers; typescript,Data Engineer
+74,docker; html; machine learning; mlops; numpy; python; selenium; tensorflow,Machine Learning Engineer
+75,aws; git; kubernetes; linux,DevOps Engineer
+76,aws; cnn; docker; terraform,Cloud Engineer
+77,c++; microcontrollers; python; robotics,Embedded Systems Engineer
+78,cnn; opencv; python; siem,Computer Vision Engineer
+79,excel; power bi; statistics,Business Intelligence Analyst
+80,c++; microcontrollers; power bi; python; robotics; testing,Embedded Systems Engineer
+81,linux; network security; penetration testing; python; sql,Cybersecurity Analyst
+82,arduino; c++; cnn; microcontrollers; python; sql,Embedded Systems Engineer
+83,ci/cd; docker; python; robotics; sql; testing,Software QA Engineer
+84,linux; machine learning; penetration testing; rest api; siem; typescript,Cybersecurity Analyst
+85,arduino; aws; docker; git; kubernetes; linux; power bi; sql,DevOps Engineer
+86,django; mlops; opencv; python; react,Full Stack Developer
+87,cnn; docker; etl; python; spark,Data Engineer
+88,arduino; django; docker; rest api; scikit-learn; spark; sql,Backend Developer
+89,docker; pytorch; siem; sql; tensorflow; transformers,Machine Learning Engineer
+90,kubernetes; linux; machine learning; mlops; nlp; pytorch; sql,NLP Engineer
+91,django; javascript; python; sql,Backend Developer
+92,docker; git; network security; python; sql,Backend Developer
+93,django; python; rest api; sql,Backend Developer
+94,pandas; python; robotics; scikit-learn; siem; sql; statistics,Data Scientist
+95,aws; docker; linux,DevOps Engineer
+96,django; docker; javascript; sql,Full Stack Developer
+97,c++; microcontrollers; python,Embedded Systems Engineer
+98,machine learning; mlops; nlp; pytorch; robotics; sql; typescript,NLP Engineer
+99,git; network security; penetration testing; sql,Cybersecurity Analyst
+100,css; git; react; typescript,Frontend Developer
+101,aws; data visualization; kubernetes; pandas; statistics,Data Analyst
+102,css; html; javascript; mlops; typescript,Frontend Developer
+103,arduino; c++; etl; python; robotics,Embedded Systems Engineer
+104,docker; nlp; python; sql,Data Engineer
+105,cnn; machine learning; mlops; nlp; python; pytorch; rest api,Computer Vision Engineer
+106,arduino; kubernetes; machine learning; nlp; python; transformers,NLP Engineer
+107,aws; machine learning; mlops; python; sql; typescript,Machine Learning Engineer
+108,arduino; c++; css; python; robotics; siem; spark,Embedded Systems Engineer
+109,aws; docker; kubernetes; linux; opencv; rest api; sql,DevOps Engineer
+110,css; django; git; javascript; numpy; react,Full Stack Developer
+111,c++; ci/cd; html; microcontrollers; react; robotics,Embedded Systems Engineer
+112,data visualization; machine learning; python; sql; terraform; transformers,NLP Engineer
+113,airflow; etl; python,Data Engineer
+114,ci/cd; python; selenium; sql,Software QA Engineer
+115,machine learning; nlp; python; siem; transformers,NLP Engineer
+116,airflow; docker; machine learning; scikit-learn; spark; sql; testing,Data Engineer
+117,data visualization; excel; numpy; react; sql; statistics,Data Analyst
+118,airflow; etl; python; siem; spark; typescript,Data Engineer
+119,django; python; sql; terraform; testing,Full Stack Developer
+120,aws; html; penetration testing; python; react; siem; sql,Cybersecurity Analyst
+121,aws; ci/cd; git; linux; sql,DevOps Engineer
+122,numpy; python; scikit-learn; sql,Data Scientist
+123,nlp; python; pytorch; sql; transformers,NLP Engineer
+124,docker; kubernetes; linux; terraform,Cloud Engineer
+125,django; git; spark; sql; terraform,Full Stack Developer
+126,machine learning; numpy; pandas; sql; statistics,Data Scientist
+127,linux; network security; penetration testing; python; sql,Cybersecurity Analyst
+128,django; javascript; numpy; python; sql; statistics; terraform,Data Scientist
+129,javascript; network security; penetration testing; python; spark; sql; typescript,Cybersecurity Analyst
+130,airflow; pandas; python; scikit-learn; statistics,Data Analyst
+131,docker; nlp; pandas; python; sql; typescript,Data Engineer
+132,ci/cd; css; linux; python; scikit-learn; selenium; sql; testing,Software QA Engineer
+133,airflow; machine learning; network security; penetration testing; siem; sql; transformers,Cybersecurity Analyst
+134,django; git; javascript; pandas; react,Full Stack Developer
+135,django; docker; git; sql,Backend Developer
+136,airflow; cnn; django; etl; python; spark,Data Engineer
+137,airflow; django; etl; sql,Data Engineer
+138,c++; microcontrollers; network security; robotics; siem,Embedded Systems Engineer
+139,data visualization; excel; python; sql; statistics,Business Intelligence Analyst
+140,css; django; javascript; python; sql; terraform,Full Stack Developer
+141,data visualization; docker; kubernetes; linux; microcontrollers; terraform,Cloud Engineer
+142,azure; docker; terraform,Cloud Engineer
+143,ci/cd; git; selenium; sql; testing,Software QA Engineer
+144,pandas; power bi; python; scikit-learn; statistics,Data Scientist
+145,docker; kubernetes; linux; rest api; terraform,Cloud Engineer
+146,aws; ci/cd; git; pandas; sql,Software QA Engineer
+147,django; docker; pandas; python; sql; terraform,Backend Developer
+148,arduino; pandas; python; scikit-learn; statistics,Data Scientist
+149,git; machine learning; pandas; python; sql; statistics,Data Scientist
+150,django; javascript; python; react; sql; terraform,Full Stack Developer
+151,git; javascript; microcontrollers; react; transformers; typescript,Frontend Developer
+152,aws; cnn; django; docker; kubernetes; tensorflow,DevOps Engineer
+153,aws; azure; c++; docker; terraform,Cloud Engineer
+154,excel; power bi; sql; statistics,Business Intelligence Analyst
+155,aws; azure; docker; kubernetes; linux,Cloud Engineer
+156,docker; mlops; python; sql,Data Engineer
+157,cnn; docker; machine learning; pytorch; siem; statistics,Computer Vision Engineer
+158,cnn; docker; kubernetes; opencv; pandas; python; robotics,Computer Vision Engineer
+159,django; javascript; microcontrollers; penetration testing; python; react,Full Stack Developer
+160,data visualization; pandas; sql; statistics,Data Analyst
+161,python; siem; sql,Cybersecurity Analyst
+162,azure; docker; machine learning; network security; nlp; opencv; python; pytorch,Computer Vision Engineer
+163,ci/cd; data visualization; git; kubernetes; mlops; python,DevOps Engineer
+164,django; javascript; python; react,Full Stack Developer
+165,cnn; docker; opencv; pandas; penetration testing; python; pytorch,Computer Vision Engineer
+166,arduino; pandas; python; scikit-learn; sql,Data Scientist
+167,docker; machine learning; mlops; penetration testing; sql; tensorflow,Machine Learning Engineer
+168,etl; git; html; javascript; typescript,Frontend Developer
+169,arduino; c++; microcontrollers; scikit-learn; spark; typescript,Embedded Systems Engineer
+170,css; microcontrollers; network security; penetration testing; siem; typescript,Cybersecurity Analyst
+171,aws; azure; docker; kubernetes,Cloud Engineer
+172,airflow; css; machine learning; numpy; pandas; sql,Data Scientist
+173,azure; docker; kubernetes; linux; sql,Cloud Engineer
+174,arduino; c++; machine learning; python; pytorch; scikit-learn; sql; transformers,NLP Engineer
+175,css; django; git; network security; pytorch; sql,Full Stack Developer
+176,machine learning; numpy; pandas; python; scikit-learn; sql,Data Scientist
+177,django; docker; linux; opencv; python; rest api,Backend Developer
+178,aws; ci/cd; docker; git; python,DevOps Engineer
+179,ci/cd; docker; git; kubernetes; nlp,DevOps Engineer
+180,django; git; python; selenium; transformers; typescript,Backend Developer
+181,docker; excel; kubernetes; linux; scikit-learn; terraform,Cloud Engineer
+182,c++; machine learning; python; pytorch; sql; statistics,Machine Learning Engineer
+183,css; javascript; react; typescript,Frontend Developer
+184,ci/cd; git; html; nlp; python; sql; testing; transformers,Software QA Engineer
+185,ci/cd; cnn; machine learning; opencv; python; statistics,Computer Vision Engineer
+186,git; pandas; python; sql,Software QA Engineer
+187,aws; ci/cd; cnn; docker; git; linux; power bi,DevOps Engineer
+188,docker; machine learning; pytorch; sql; tensorflow,Machine Learning Engineer
+189,cnn; docker; python; pytorch,Computer Vision Engineer
+190,css; git; react; typescript,Frontend Developer
+191,excel; git; javascript; python; selenium; testing,Software QA Engineer
+192,aws; ci/cd; docker; kubernetes; linux,DevOps Engineer
+193,css; git; javascript; python; react; typescript,Frontend Developer
+194,aws; data visualization; excel; penetration testing; react; statistics,Data Analyst
+195,ci/cd; git; kubernetes; linux; selenium; sql; tensorflow,Software QA Engineer
+196,css; git; html; nlp; python; react; sql; typescript,Frontend Developer
+197,machine learning; nlp; sql; transformers,NLP Engineer
+198,ci/cd; git; selenium; testing,Software QA Engineer
+199,css; html; react; robotics,Frontend Developer
+200,docker; kubernetes; machine learning; penetration testing; python; pytorch; sql; statistics; tensorflow,Machine Learning Engineer
